@@ -1,0 +1,1 @@
+print("Schowek 1")
